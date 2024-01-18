@@ -1,10 +1,10 @@
 # Site settings
 title: Dan Carmody-Morse
-email: your-email@domain.com
+email: carmody.d.r@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Data Scientist - Educator - Writer - Artist"
+description: "Portfolio site for Dan Carmody-Morse"
+keywords: "data science, physics, teaching, bikepacking, trail running"
+skills: "Data Scientist - Educator" # - Writer - Artist"
 meta_author: Dan Carmody-Morse
 
 # Google webmaster tools
@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Dan Carmody-Morse
-  location: USA
+  location: location
   social: Around the Web
   credits: Credits
 
@@ -73,4 +73,4 @@ defaults:
 
 collections:
    stories: 
-      output: true
+      output: false #true
